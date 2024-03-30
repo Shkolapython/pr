@@ -57,7 +57,7 @@ nav a:first-child {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    width: 700px;
+    
     margin: 0 30px;
     background-color: rgb(255, 237, 253);
 }
